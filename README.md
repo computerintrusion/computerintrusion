@@ -1,8 +1,9 @@
 # Hello everyone, my name is Li
+- I'm an aspiring pentester with a focus on cybersecurity.
 
-## Programming Languages
+### Programming Languages
 
-- I spend the majority of my time programming in C++ and Objective C
+- I primarily work with C++ and Objective-C.
 
 ### Interests
 
