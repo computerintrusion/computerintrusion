@@ -1,4 +1,4 @@
-# Hello everyone, my name is Li
+# Hello everyone, my name is Li!
 
 - I'm an aspiring pentester with a focus on cybersecurity
 
@@ -9,5 +9,4 @@
 ### Interests
 
 - Game Hacking
-- Reverse Engineering
-- Malware Analysis
+- Reverse Engineering (Malware Analysis)
