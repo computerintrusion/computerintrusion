@@ -1,4 +1,4 @@
-# ARK Mercenary / Li 
+# Hello everyone, my name is Li
 
 ## Programming Languages
 
