@@ -1,6 +1,8 @@
-# Hello everyone, my name is Li!
+# Hello, my name is Li!
 
-- I'm an aspiring pentester with a focus on cybersecurity
+![Github-Stats](https://github-readme-stats.vercel.app/api?username=ARK-Mercenary&show_icons=true&locale=en&theme=tokyonight)
+
+<!--- - I'm an aspiring pentester with a focus on cybersecurity -->
 
 ### Programming Languages
 
