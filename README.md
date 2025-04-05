@@ -11,6 +11,5 @@
 - Reverse Engineering
 
 <p align="center">
-    ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computerintrusion&theme=tokyonight)
-    ![stats](https://github-readme-stats.vercel.app/api?username=computerintrusion&show_icons=true&locale=en&theme=tokyonight)
+  <a href=""><img src="https://github-readme-stats.vercel.app/api?username=computerintrusion&show_icons=true&theme=tokyonight"></a> <br>
 </p>
